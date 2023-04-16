@@ -1,1 +1,1 @@
-## Compilador utilizado: MinGW
+### Compilador utilizado: MinGW-gcc
