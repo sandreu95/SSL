@@ -1,1 +1,1 @@
-### Compilador utilizado: Mingw-w64
+### Compilador utilizado: Mingw
